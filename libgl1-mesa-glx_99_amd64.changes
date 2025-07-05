@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 05 Jul 2025 14:53:56 +0000
+Source: libgl1-mesa-glx
+Binary: libgl1-mesa-glx
+Architecture: all
+Version: 1:99
+Distribution: unstable
+Urgency: low
+Maintainer: eigensystems-kj <kj@eigensystems.pl>
+Changed-By: eigensystems-kj <kj@eigensystems.pl>
+Description:
+ libgl1-mesa-glx - dummy libgl1-mesa-glx package
+Changes:
+ libgl1-mesa-glx (1:99) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ 945732eb07062aead87d99d70c77772b1b98160a 2244 libgl1-mesa-glx_99_all.deb
+ 390f6180217a37356af135236cb725498d3b20f3 5896 libgl1-mesa-glx_99_amd64.buildinfo
+Checksums-Sha256:
+ f52567b28ed275c9d08349d02f015c8a49270e65ac217b247d790005309e8694 2244 libgl1-mesa-glx_99_all.deb
+ bab2b103083d78e63f4f57192971c87c5682924d17ca6e268b96eb3901c8bd49 5896 libgl1-mesa-glx_99_amd64.buildinfo
+Files:
+ 276009d4cd9d5a01c62b7ad262e2b701 2244 misc optional libgl1-mesa-glx_99_all.deb
+ ca13cffc52a9e0ec4879848556a97022 5896 misc optional libgl1-mesa-glx_99_amd64.buildinfo

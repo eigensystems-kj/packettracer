@@ -1,0 +1,8 @@
+Package: libgl1-mesa-glx
+Version: 1:99
+Maintainer: eigensystems-kj <kj@eigensystems.pl>
+Architecture: all
+Description: dummy libgl1-mesa-glx package
+ A dummy package that is needed to satisfy Cisco Packet Tracer (PT)
+ dependency on Kali Linux (You'll probably need some real 'mesa glx'
+ packages to be installed by apt for it to work though).
